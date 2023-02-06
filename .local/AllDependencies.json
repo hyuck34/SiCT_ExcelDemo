@@ -20179,11 +20179,11 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "ExcelChart_Windows",
-      "projectName": "ExcelChart_Windows",
-      "projectPath": "C:\\Users\\SICT\\Documents\\GitHub\\ExcelChart_Windows\\.local",
+      "projectUniqueName": "Supplier 리포트생성",
+      "projectName": "Supplier 리포트생성",
+      "projectPath": "C:\\Users\\SICT\\Documents\\GitHub\\SiCT_ExcelDemo\\.local",
       "packagesPath": "C:\\Users\\SICT\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SICT\\Documents\\GitHub\\ExcelChart_Windows\\.local"
+      "outputPath": "C:\\Users\\SICT\\Documents\\GitHub\\SiCT_ExcelDemo\\.local"
     },
     "frameworks": {
       "net6.0-windows7.0": {

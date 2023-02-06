@@ -90,6 +90,22 @@
     },
     {
       "Package": {
+        "Id": "UiPath.Presentations.Activities",
+        "Version": "1.7.1"
+      },
+      "Assemblies": [
+        "C:\\Users\\SICT\\.nuget\\packages\\uipath.presentations.activities\\1.7.1\\lib/net5.0-windows7.0/Microsoft.Office.Interop.PowerPoint.dll",
+        "C:\\Users\\SICT\\.nuget\\packages\\uipath.presentations.activities\\1.7.1\\lib/net5.0-windows7.0/Microsoft.Vbe.Interop.dll",
+        "C:\\Users\\SICT\\.nuget\\packages\\uipath.presentations.activities\\1.7.1\\lib/net5.0-windows7.0/Office.dll",
+        "C:\\Users\\SICT\\.nuget\\packages\\uipath.presentations.activities\\1.7.1\\lib/net5.0-windows7.0/UiPath.Presentations.Activities.Design.dll",
+        "C:\\Users\\SICT\\.nuget\\packages\\uipath.presentations.activities\\1.7.1\\lib/net5.0-windows7.0/UiPath.Presentations.Activities.Package.dll",
+        "C:\\Users\\SICT\\.nuget\\packages\\uipath.presentations.activities\\1.7.1\\lib/net5.0-windows7.0/UiPath.Presentations.Activities.dll",
+        "C:\\Users\\SICT\\.nuget\\packages\\uipath.presentations.activities\\1.7.1\\lib/net5.0-windows7.0/UiPath.Presentations.dll"
+      ],
+      "Path": "C:\\Users\\SICT\\.nuget\\packages\\uipath.presentations.activities\\1.7.1"
+    },
+    {
+      "Package": {
         "Id": "UiPath.System.Activities",
         "Version": "22.4.5"
       },
@@ -207,22 +223,6 @@
         "C:\\Users\\SICT\\.nuget\\packages\\uipath.vision\\3.3.0\\lib/net5.0-windows7.0/UiPath.Vision.dll"
       ],
       "Path": "C:\\Users\\SICT\\.nuget\\packages\\uipath.uiautomation.activities\\22.4.7"
-    },
-    {
-      "Package": {
-        "Id": "UiPath.Presentations.Activities",
-        "Version": "1.7.1"
-      },
-      "Assemblies": [
-        "C:\\Users\\SICT\\.nuget\\packages\\uipath.presentations.activities\\1.7.1\\lib/net5.0-windows7.0/Microsoft.Office.Interop.PowerPoint.dll",
-        "C:\\Users\\SICT\\.nuget\\packages\\uipath.presentations.activities\\1.7.1\\lib/net5.0-windows7.0/Microsoft.Vbe.Interop.dll",
-        "C:\\Users\\SICT\\.nuget\\packages\\uipath.presentations.activities\\1.7.1\\lib/net5.0-windows7.0/Office.dll",
-        "C:\\Users\\SICT\\.nuget\\packages\\uipath.presentations.activities\\1.7.1\\lib/net5.0-windows7.0/UiPath.Presentations.Activities.Design.dll",
-        "C:\\Users\\SICT\\.nuget\\packages\\uipath.presentations.activities\\1.7.1\\lib/net5.0-windows7.0/UiPath.Presentations.Activities.dll",
-        "C:\\Users\\SICT\\.nuget\\packages\\uipath.presentations.activities\\1.7.1\\lib/net5.0-windows7.0/UiPath.Presentations.Activities.Package.dll",
-        "C:\\Users\\SICT\\.nuget\\packages\\uipath.presentations.activities\\1.7.1\\lib/net5.0-windows7.0/UiPath.Presentations.dll"
-      ],
-      "Path": "C:\\Users\\SICT\\.nuget\\packages\\uipath.presentations.activities\\1.7.1"
     }
   ],
   "Conflicts": [],
@@ -6927,8 +6927,8 @@
         "C:\\Users\\SICT\\.nuget\\packages\\uipath.presentations.activities\\1.7.1\\lib\\net5.0-windows7.0\\Microsoft.Vbe.Interop.dll",
         "C:\\Users\\SICT\\.nuget\\packages\\uipath.presentations.activities\\1.7.1\\lib\\net5.0-windows7.0\\Office.dll",
         "C:\\Users\\SICT\\.nuget\\packages\\uipath.presentations.activities\\1.7.1\\lib\\net5.0-windows7.0\\UiPath.Presentations.Activities.Design.dll",
-        "C:\\Users\\SICT\\.nuget\\packages\\uipath.presentations.activities\\1.7.1\\lib\\net5.0-windows7.0\\UiPath.Presentations.Activities.dll",
         "C:\\Users\\SICT\\.nuget\\packages\\uipath.presentations.activities\\1.7.1\\lib\\net5.0-windows7.0\\UiPath.Presentations.Activities.Package.dll",
+        "C:\\Users\\SICT\\.nuget\\packages\\uipath.presentations.activities\\1.7.1\\lib\\net5.0-windows7.0\\UiPath.Presentations.Activities.dll",
         "C:\\Users\\SICT\\.nuget\\packages\\uipath.presentations.activities\\1.7.1\\lib\\net5.0-windows7.0\\UiPath.Presentations.dll"
       ],
       "Path": "C:\\Users\\SICT\\.nuget\\packages\\uipath.presentations.activities\\1.7.1"
